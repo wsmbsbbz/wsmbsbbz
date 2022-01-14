@@ -2,7 +2,7 @@
 
 # LeetCode Status
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=wsmbsbbz&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+![wsmbsbbz's LeetCode status](https://www.trashcan.icu/img/leetcode-status.svg)
 
 <!--
 **wsmbsbbz/wsmbsbbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
