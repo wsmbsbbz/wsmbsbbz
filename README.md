@@ -2,7 +2,7 @@
 
 # LeetCode Status
 
-![wsmbsbbz's LeetCode status](https://www.trashcan.icu/img/leetcode-status.svg)
+![wsmbsbbz's LeetCode status](https://www.trashcan.icu/img/leetcode-status-dark.svg)
 
 <!--
 **wsmbsbbz/wsmbsbbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
