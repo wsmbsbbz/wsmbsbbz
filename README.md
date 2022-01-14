@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# LeetCode Status
+## LeetCode Status(CN)
 
 ![wsmbsbbz's LeetCode status](https://www.trashcan.icu/img/leetcode-status-dark.svg)
 
