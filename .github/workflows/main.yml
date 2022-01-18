@@ -10,6 +10,17 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
+      - run: curl https://www.trashcan.icu/img/leetcode-status-dark.svg > ./status.svg
+      - name: Commit to the repo
+        run: |
+          git config --global user.name "wsmbsbbz/github-actions-demo"
+          git config --global user.email "1037214973@qq.com"
+          git add .
+          # "echo" returns true so the build succeeds, even if no changed files
+          git commit -m '🎉 Update Generated Files' || echo
+          git push
+
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
