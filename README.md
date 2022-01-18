@@ -1,8 +1,8 @@
 # Hi there 👋
 
-## LeetCode Status(CN)
+📝 **LeetCode Status(CN)**
 
-![wsmbsbbz's LeetCode status](https://github.com/wsmbsbbz/github-actions-demo/blob/main/status.svg)
+![wsmbsbbz's LeetCode status](https://github.com/wsmbsbbz/wsmbsbbz/blob/main/status.svg)
 
 <!--
 **wsmbsbbz/wsmbsbbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
