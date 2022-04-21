@@ -7,12 +7,12 @@
                 <div xmlns="http://www.w3.org/1999/xhtml">
                     <div class="stat-wrapper top" size="108">
                         <div class="problems-solved">Problems Solved</div>
-                        <div class="total-solved-count">99</div>
+                        <div class="total-solved-count">100</div>
                     </div>
                     <div class="total-solved-container">
                         <div class="stat-wrapper" data-difficulty="Easy">
                             <div class="difficulty-label easy">Easy</div>
-                            <div class="solved">19
+                            <div class="solved">20
                             <span class="total-count">683</span></div>
                         </div>
                         <div class="stat-wrapper" data-difficulty="Medium">
@@ -23,7 +23,7 @@
                         <div class="stat-wrapper" data-difficulty="Hard">
                             <div class="difficulty-label hard">Hard</div>
                             <div class="solved">20
-                            <span class="total-count">540</span></div>
+                            <span class="total-count">541</span></div>
                         </div>
                     </div>
                 </div>
